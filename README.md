@@ -52,6 +52,9 @@
 
 * -README.md（自述文件）
 
+* -Lincenses（许可文件夹）
+    * fdl-1.3.txt
+    * gpl-3.0.txt {这两个具体干啥的，我也不知道，主要是从原模板中复制过来的}
 * -MainBody（论文主体文件夹）
     * MainBody.tex      {主TeX文件}.
     * ReferenceBase.bib      {参考文献库文件}.
