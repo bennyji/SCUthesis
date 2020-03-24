@@ -52,16 +52,16 @@
         * CopyrightAuthorization.tex      {版权授权（请勿修改）}.
         * OriginalStatement.tex      {原创声明（请勿修改）}.   
 * -Reference Document（参考文献文件夹）
-    * -pkuthss-1.2beta {参考模板文件夹}.
-    * -scuthesis2016 {scu模板文件夹}.
-    * -四川大学硕士、博士学位论文格式.doc {word版参考文件}.
+    * pkuthss-1.2beta {参考模板文件夹}.
+    * scuthesis2016 {scu模板文件夹}.
+    * 四川大学硕士、博士学位论文格式.doc {word版参考文件}.
 * -Template（模版文件夹）
-    * -scuthesis.cls {模版样式文件}.
-    * -scuthesis.def {模版宏定义文件}.
-    * -chinesebst.bst {中文参考文献样式文件}.
-    * -Components.
-        * -Images.
-            * -SCU_TITLE.eps {四川大学LOGO}.
+    * scuthesis.cls {模版样式文件}.
+    * scuthesis.def {模版宏定义文件}.
+    * chinesebst.bst {中文参考文献样式文件}.
+    * Components.
+        * Images.
+            * SCU_TITLE.eps {四川大学LOGO}.
 
 ## 2 本模板特点与改进
 首先在继承Legendary模板简单方便与自动化程度高的特点的基础上，高度符合《四川大学硕士、博士学位论文格式（2010版）》[2]。对原版本主要进行了一下几个方面的修改：
