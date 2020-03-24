@@ -21,8 +21,6 @@
 * -README.md（自述文件）
 
 * -MainBody（论文主体文件夹）
-    * 脚本语言
-        * Python
     * MainBody.tex      {主TeX文件}.
     * ReferenceBase.bib      {参考文献库文件}.
     * Chapters      {章节文件夹}.
@@ -40,18 +38,23 @@
         * OriginalStatement.tex      {原创声明（请勿修改）}.   
  
 * -Manual（手册文件夹）
+    * Manual.tex      {手册说明主TeX文件}.
+    * Manualbib.bib      {手册参考文献库文件}.
+        * CopyrightStatement.tex      {声明}.
         * 0_0_Abstract.tex      {中英文摘要}.
-        * 0_1_Abbreviations.tex      {缩略词表}.
-        * 0_2_Symbols.tex      {符号表}.
-        * 1_Introduction.tex      {引言}.
-        * 2_Theory      {第二章}.
-        * 3_Methods      {第三章}.
-        * 4_Results      {第四章}.
-        * 5_Summary      {第五章}.
+        * 1_Introduction {前言}.
+        * 2_Changing{改进与说明}
+        * 3_Using{说明文档}
+        * 4_Realization{部分功能实现}
+        * 5_Updating{更新记录} 
         * Thanks.tex      {致谢}.
         * Achievements.tex      {科研成果}.
         * CopyrightAuthorization.tex      {版权授权（请勿修改）}.
         * OriginalStatement.tex      {原创声明（请勿修改）}.   
+* -Reference Document（参考文献文件夹）
+    * -pkuthss-1.2beta {参考模板文件夹}.
+    * -scuthesis2016 {scu模板文件夹}.
+    * -四川大学硕士、博士学位论文格式.doc {word版参考文件}.
 * -Template（模版文件夹）
     * -scuthesis.cls {模版样式文件}.
     * -scuthesis.def {模版宏定义文件}.
