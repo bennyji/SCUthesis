@@ -12,4 +12,5 @@
 ## 参考文献与项目
 [1] LegendaryLeo. 四川大学学位论文LaTeX模版 Poweredbypkuthss-1.2beta[EB/OL].
 2016[2020.03.04]. https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate.
+
 [2] 四川大学研究生院. 四川大学硕士、博士学位论文格式2010[2020.03.24][OL]http://gs.scu.edu.cn/__local/5/12/88/D4DE41B158E85CFA0705D213A24_39BC1820_C400.doc?e=.doc
