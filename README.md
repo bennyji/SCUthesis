@@ -24,16 +24,16 @@
 
 |---Manual---------------------------------------------手册文件夹.
 
-* README.md（自述文件）
-* Template（模版文件夹）
-	.2 scuthesis.cls\DTcomment{模版样式文件}.
-	.2 scuthesis.def\DTcomment{模版宏定义文件}.
-	.2 chinesebst.bst\DTcomment{中文参考文献样式文件}.
-	.2 Components.
-	.3 Images.
-	.4 SCU{\_}TITLE.eps\DTcomment{四川大学~LOGO}.
-* MainBody（论文主体文件夹）
-* Manual（手册文件夹）
+* -README.md（自述文件）
+* -Template（模版文件夹）
+    * -scuthesis.cls（模版样式文件）.
+    * -scuthesis.def {模版宏定义文件}.
+    * -chinesebst.bst {中文参考文献样式文件}.
+    * -Components.
+    * -Images.
+        * -SCU_TITLE.eps {四川大学~LOGO}.
+* -MainBody（论文主体文件夹）
+* -Manual（手册文件夹）
     * 脚本语言
         * Python
 ## 2 本模板特点与改进
