@@ -16,13 +16,7 @@
 
 •	编辑器：个人推荐TeXstudio，界面很不错。
 ### 1.4 文件夹列表
-|---README.md------------------------------------------自述文件.
 
-|---Template-------------------------------------------模版文件夹.
-
-|---MainBody-------------------------------------------论文主体文件夹.
-
-|---Manual---------------------------------------------手册文件夹.
 
 * -README.md（自述文件）
 
@@ -43,17 +37,28 @@
         * Thanks.tex      {致谢}.
         * Achievements.tex      {科研成果}.
         * CopyrightAuthorization.tex      {版权授权（请勿修改）}.
-        * OriginalStatement.tex      {原创声明（请勿修改）}.
-}       
+        * OriginalStatement.tex      {原创声明（请勿修改）}.   
  
 * -Manual（手册文件夹）
+        * 0_0_Abstract.tex      {中英文摘要}.
+        * 0_1_Abbreviations.tex      {缩略词表}.
+        * 0_2_Symbols.tex      {符号表}.
+        * 1_Introduction.tex      {引言}.
+        * 2_Theory      {第二章}.
+        * 3_Methods      {第三章}.
+        * 4_Results      {第四章}.
+        * 5_Summary      {第五章}.
+        * Thanks.tex      {致谢}.
+        * Achievements.tex      {科研成果}.
+        * CopyrightAuthorization.tex      {版权授权（请勿修改）}.
+        * OriginalStatement.tex      {原创声明（请勿修改）}.   
 * -Template（模版文件夹）
-    * -scuthesis.cls（模版样式文件）.
+    * -scuthesis.cls {模版样式文件}.
     * -scuthesis.def {模版宏定义文件}.
     * -chinesebst.bst {中文参考文献样式文件}.
     * -Components.
-    * -Images.
-        * -SCU_TITLE.eps {四川大学LOGO}.
+        * -Images.
+            * -SCU_TITLE.eps {四川大学LOGO}.
 
 ## 2 本模板特点与改进
 首先在继承Legendary模板简单方便与自动化程度高的特点的基础上，高度符合《四川大学硕士、博士学位论文格式（2010版）》[2]。对原版本主要进行了一下几个方面的修改：
