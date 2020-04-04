@@ -79,7 +79,7 @@
         * CopyrightAuthorization.tex      {版权授权（请勿修改）}.
         * OriginalStatement.tex      {原创声明（请勿修改）}.   
  
-#### * -Manual（手册文件夹）
+* -Manual（手册文件夹）
     * Manual.tex      {手册说明主TeX文件}.
     * Manualbib.bib      {手册参考文献库文件}.
         * CopyrightStatement.tex      {声明}.
