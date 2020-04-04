@@ -6,8 +6,7 @@
 
 #### 本项目对应的overleaf链接（不推荐在线使用，就模板生成结果来看，页面会有点问题，声明处的四川大学也没法显示，推荐直接下载本项目本地进行修改）：https://cn.overleaf.com/read/bypstqfsnqwd
 #### 文档效果图 
-![xiaoguotu](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/封面目录.png)
-![xiaoguotu2](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/正文声明等.png)
+
 ![Alt text](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/jiemian.png)
 ## 1 概述
 ### 1.1 模板基础
