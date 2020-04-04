@@ -6,8 +6,9 @@
 
 #### 本项目对应的overleaf链接（不推荐在线使用，就模板生成结果来看，页面会有点问题，声明处的四川大学也没法显示，推荐直接下载本项目本地进行修改）：https://cn.overleaf.com/read/bypstqfsnqwd
 #### 文档效果图 
-![Alt text](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/封面目录.png)
-![Alt text](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/正文声明等.png)
+![xiaoguotu](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/封面目录.png)
+![xiaoguotu2](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/正文声明等.png)
+![Alt text](https://github.com/bennyji/SCUthesis/tree/master/Manual/Images/jiemian.png)
 ## 1 概述
 ### 1.1 模板基础
 本LaTeX模板是在Legendary Leo 于2016年的四川大学学位论文模板[1]的基础上进行修改的。而Legendary Leo的四川大学学位论文模板[1]的工作，以前由 dahakawang  、 tan  等人做过，是在参考 Casper Ti. Vector   pkuthss 模版的基础上完成的。在此一并感谢。
